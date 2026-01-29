@@ -1,5 +1,4 @@
-# Additional-EXP-1.
-##TITLE-SubSring
+# Additional-EXP-1
 ```
 import java.util.Scanner;
 public class InsertSubstring {
