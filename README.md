@@ -24,4 +24,4 @@ public class InsertSubstring {
 }
 ```
 OUTPUT:
-[output of add-exp1](substring.png)
+[output of SubString](substring.png)
