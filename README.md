@@ -23,5 +23,5 @@ public class InsertSubstring {
     }
 }
 ```
-OUTPUT:
-[output of SubString](substring.png)
+# output:
+![output of SubString](substring.png)
